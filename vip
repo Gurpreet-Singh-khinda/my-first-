@@ -1,0 +1,38 @@
+<vip class="History">
+
+	
+<style>
+vip {
+--c: rgb(255 255 255);
+--bs-b: unset;
+
+}
+img { max-width: 100%; max-height: 100%; }
+vicard vic { border-radius: 7px; display: grid; width: 366px; }	
+vicard bl {display: grid; width: 333px; margin: auto; padding: 11px; border-radius: 7px; position: relative; background: unset;}
+vicard vn hd { display: grid; grid-template-columns:36px auto auto; align-items: center; width: fit-content; }
+vicard vin { font-size: 1.6em; font-weight: 600; background:linear-gradient(180deg, #fff9d6 39.98%, #ffe650 100%); -webkit-text-fill-color: transparent; background-clip: text; }
+vicard noy { display: grid; grid-template-columns:23px auto; padding: 0 7px; align-items: center; color: var(--c);opacity: 0;}
+vicard bl> hd { display: grid; grid-template-columns: auto; }
+vicard bl vn p { margin: 0; font-size: 0.77em; color: var(--c); letter-spacing: 0.33px; }
+vicard vipl { position: absolute; top: 0px; height: 88px; width: 88px; right: 0px; }
+vicard vipl i { height: 88px; width: 88px; }
+vicard bl>bd { border: 1px solid var(--c); height: fit-content; width: fit-content; padding: 2px 5px; font-size: 0.77em; border-radius: 4px; color: var(--c); margin-top: 11px; }
+vicard bl ft lins{height: 8px; display: grid; border-radius: 44px;}
+vicard bl ft hd { text-align: end; font-size: 0.88em; margin-bottom: 7px; color: var(--c); }	
+vicard bl ft ft { display: flex; align-items: center; justify-content: space-between; height: fit-content;padding-bottom:0px;flex-flow: wrap; }
+vicard bl ft ft p {margin: 0; border-radius: 44px; padding: 1px 11px; color: var(--c); margin-top: 5px; font: inherit; font-size: 0.77rem;}
+vicard ft spen { padding: 0px 7px; color: var(--c); margin-top: 5px; font: inherit; font-size: 0.77rem; }
+vicard vic{border-radius: 7px;}	
+vicard vn hd> i { height: 30px; width: 30px; }	
+.vip3 lins{box-shadow:0 .01333rem #ffada0,inset 0 .05333rem .05333rem #d62f36; background:rgb(240, 92, 92); }	
+.vip3 ft ft p {background:linear-gradient(90deg,#ff7878 0%,#f05c5c 92.31%); }	
+.vip3{background: url(/0/vip/vip3.png) no-repeat center,linear-gradient(117.29deg,#ffa493 21.85%,#ff7878 67.02%);box-shadow:0 .01333rem 0px #ffa4937d, 0 .05333rem 1rem #ff787880;}	
+	
+
+</style>
+
+<vicard>
+<vic class="vip3 dn"><bl><hd><vn><hd><i><img src="https://kscpool.aliens.works/0/vip/viph2.png"></i><vin>Platinum Rank</vin> <noy><i><img src="/0/NoOpanYet.png"></i><h5>Not open yet</h5></noy>	</hd> <p>Upgrading VIP3 requires <br>200000EXP</p> </vn> <vipl><i><img src="https://kscpool.aliens.works/0/vip/vipl3.png"></i></vipl></hd> <bd>Bet USDT1=1EXP</bd> <ft> <hd>VIP3</hd> <bd><lins><lin style="width: 0%;"></lin></lins></bd> <ft><p>0/200000</p><spen>200000 EXP can be leveled up</spen></ft> </ft> <a class="a" href="/Vip/levels/3"></a> </bl></vic>
+</vicard>	
+</vip>
