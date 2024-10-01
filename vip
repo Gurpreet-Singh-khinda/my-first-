@@ -8,7 +8,7 @@ vip {
 
 }
 img { max-width: 100%; max-height: 100%; }
-vicard vic { border-radius: 7px; display: grid; width: 366px; }	
+vicard vic { border-radius: 7px; display: grid; width: 366px; padding: 11px; }	
 vicard bl {display: grid; width: 333px; margin: auto; padding: 11px; border-radius: 7px; position: relative; background: unset;}
 vicard vn hd { display: grid; grid-template-columns:36px auto auto; align-items: center; width: fit-content; }
 vicard vin { font-size: 1.6em; font-weight: 600; background:linear-gradient(180deg, #fff9d6 39.98%, #ffe650 100%); -webkit-text-fill-color: transparent; background-clip: text; }
@@ -23,7 +23,6 @@ vicard bl ft hd { text-align: end; font-size: 0.88em; margin-bottom: 7px; color:
 vicard bl ft ft { display: flex; align-items: center; justify-content: space-between; height: fit-content;padding-bottom:0px;flex-flow: wrap; }
 vicard bl ft ft p {margin: 0; border-radius: 44px; padding: 1px 11px; color: var(--c); margin-top: 5px; font: inherit; font-size: 0.77rem;}
 vicard ft spen { padding: 0px 7px; color: var(--c); margin-top: 5px; font: inherit; font-size: 0.77rem; }
-vicard vic{border-radius: 7px;}	
 vicard vn hd> i { height: 30px; width: 30px; }	
 .vip3 lins{box-shadow:0 .01333rem #ffada0,inset 0 .05333rem .05333rem #d62f36; background:rgb(240, 92, 92); }	
 .vip3 ft ft p {background:linear-gradient(90deg,#ff7878 0%,#f05c5c 92.31%); }	
